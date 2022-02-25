@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,143 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "John",
+      "email": "wheremydogat@blackmustang.com",
+      "id": 1
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 2
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 3
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 4
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 5
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 6
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 7
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 8
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 9
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 10
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 11
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 12
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 13
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 14
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 15
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 16
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 17
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 18
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 19
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 20
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 21
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 22
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 23
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 24
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 25
+    },
+    {
+      "name": "Joker",
+      "email": "whysoserious@gothamcity.com",
+      "id": 26
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
